@@ -1,10 +1,10 @@
 // Data stub
 const ramens = [
-    { id: 1, name: "Shoyu Ramen", restaurant: "Ichiran", image: "/Images/shoyu.jpg", rating: 5, comment: "Delicious!" },
-    { id: 2, name: "Gyukotsu Ramen", restaurant: "Menya", image: "/Images/gyukotsu.jpg", rating: 4, comment: "Tasty broth!" },
-    { id: 3, name: "Kojiro Ramen", restaurant: "Ramen-ya", image: "/Images/kojiro.jpg", rating: 8, comment: "Amazing pork flavor!" },
-    { id: 4, name: "Naruto Ramen", restaurant: "Ronin", image: "/Images/naruto.jpg", rating: 9, comment: "Tasty!" },
-    { id: 5, name: "Nirvana Ramen", restaurant: "Oishi", image: "/Images/nirvana.jpg", rating: 7, comment: "Yummy!" },
+    { id: 1, name: "Shoyu Ramen", restaurant: "Ichiran", image: "images/shoyu.jpg", rating: 5, comment: "Delicious!" },
+    { id: 2, name: "Gyukotsu Ramen", restaurant: "Menya", image: "images/gyukotsu.jpg", rating: 4, comment: "Tasty broth!" },
+    { id: 3, name: "Kojiro Ramen", restaurant: "Ramen-ya", image: "images/kojiro.jpg", rating: 8, comment: "Amazing pork flavor!" },
+    { id: 4, name: "Naruto Ramen", restaurant: "Ronin", image: "images/naruto.jpg", rating: 9, comment: "Tasty!" },
+    { id: 5, name: "Nirvana Ramen", restaurant: "Oishi", image: "images/nirvana.jpg", rating: 7, comment: "Yummy!" },
 ];
 
 // Function to display ramen images in the menu
